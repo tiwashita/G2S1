@@ -1,0 +1,5 @@
+<apex:page standardController="Account">
+From gitHub!
+{!account.name}
+{!account.TestField__c}
+</apex:page>
